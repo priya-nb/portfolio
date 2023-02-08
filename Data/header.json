@@ -1,0 +1,21 @@
+{
+    "heading": "PRIYA NB",
+    "navBar": [
+        {
+            "title": "HOME",
+            "href": "index.html"
+        },
+        {
+            "title": "ABOUT",
+            "href": "#STORYPART"
+        },
+        {
+            "title": "EDUCATION",
+            "href": "#EDUCATIONPART"
+        },
+        {
+            "title": "PROJECTS",
+            "href": "#PROJECTPART"
+        }
+    ]
+}

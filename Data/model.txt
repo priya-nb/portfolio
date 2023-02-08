@@ -1,0 +1,24 @@
+Header
+    - heading
+    -navBar
+
+container
+    -content_section 
+                    - title
+                    -content 
+
+
+    -image_section(file/asset)
+
+storypart
+    -heading_part
+    -s_content   
+
+Eductionpart
+    -heading_part
+    -ed_content(multiple_cards)
+                               
+
+projectpart
+    -heading_part
+    -ed_content(multiple-cards)

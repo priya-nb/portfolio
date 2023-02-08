@@ -1,0 +1,27 @@
+{
+
+   
+    "s_heading":"About Me",
+    "s_content":[
+
+
+           {"Name"  : "Name : Priya NB "},
+
+           {"DOB" : "DOB  :11/10/200" },
+
+           {"Email" : "Email :prxxxxxxxx@gmail.com"},
+
+           {"Phone_No"   :"Phone_No :9000000000"},
+
+           {"Address"    :"Address :Mysuru"},
+
+           {"Qualification":"Qualification :B.E "},
+
+           {"Stream":"Stream :Computer science and Engineering"},
+
+           {"Technical_Skills" :"Technical_Skills:C,Java,Python,Html,Css,Mysql"}
+
+
+    ]
+
+}

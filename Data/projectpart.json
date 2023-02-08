@@ -1,0 +1,22 @@
+{
+    "project_heading":"PROJECT WORK",
+    "project_card":[
+
+        {
+          "project_content_heading":"Tour and Travel management System",
+           "project_details":"Implemented using HTML,CSS,Javascript as frondend PHP for backend along with Mysql as database This website provides a  better user  experience  ."
+         
+
+        },
+
+
+        {
+            "project_content_heading":"YouTube  (T-Series) Data Analysis ",
+            "project_details":" Built a model using Python's libraries like Pandas,Numpy,Scikit-learn to predict views,likes,comments for newly uploaded video on Youtube "
+
+
+        }
+    ]
+
+
+}

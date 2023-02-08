@@ -1,0 +1,42 @@
+
+     
+     {
+
+      "education_heading":"EDUCATIONAL DETAILS",
+       "education_cards":[
+          
+          
+          {
+  
+          "school_name":"Vivekanada High school Mysuru",
+          "class":"class:10th",
+          "year":"year:2017",
+          "percentage":"percentage:94.72",
+          "address":"address:Mysuru"
+         
+      },
+     
+     {
+
+
+      "school_name":"Maharani pu College mysuru",
+      "class":"class:12th",
+      "year":"year:2019",
+      "percentage":"percentage:82.6",
+      "address":"address:Mysuru"
+
+   },
+   {
+
+      
+      "school_name":"Jss Science and Technology University",
+      "class":"class:B.E",
+      "year":"year:2019",
+      "percentage":"percentage:80",
+      "address":"address:Mysuru"
+
+   }
+
+   ]
+
+}
