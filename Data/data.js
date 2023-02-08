@@ -42,7 +42,7 @@ const containerData={
    },
 
 
-    "image-section":"../asset/bg.jpeg"
+    "image-section":"/asset/bg.jpeg"
 };
 
 const storypartData={
